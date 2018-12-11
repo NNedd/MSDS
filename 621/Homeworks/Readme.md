@@ -1,3 +1,0 @@
-# Homeworks
-
-## Data 621
